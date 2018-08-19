@@ -1,5 +1,1 @@
-# douban spider using selenium mysql
-��δ�����ȡ�˶����Ӱ���Ӿ����ն�����¼Ƭ��5����ǩȫ����Ӱ�ӣ�ÿ��Ӱ�����1000������
-ʹ��mysql���棬��ʹ���뵽�����и�mysql�˻�����
-
-������python3.6
+﻿﻿﻿##douban spider using selenium MySQL这段代码爬取了豆瓣电影电视剧综艺动画纪录片等5个标签全部的影视，每个影视最多1000条评论使用mysql储存，若使用请到代码中改mysql账户密码先运行mysqlstorage创建数据库，再运行spider.py环境：python3.6
